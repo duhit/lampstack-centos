@@ -305,7 +305,7 @@ GEM
       wmi-lite (~> 1.0)
     plist (3.2.0)
     proxifier (1.0.3)
-    rack (1.6.4)
+    rack (1.6.13)
     rbvmomi (1.8.2)
       builder
       nokogiri (>= 1.4.1)
